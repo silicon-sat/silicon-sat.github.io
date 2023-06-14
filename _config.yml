@@ -1,7 +1,11 @@
-title: jekyll-rtd-theme
-description: Just another documentation theme compatible with GitHub Pages
+title: Orbit Lab, SIT, Bhubaneswar, India 
+description: Orbit Lab is an SiliconTech initiative to develop a satellite technology using the pico-satellite format PocketQube.
 
 theme: null
+
+  
+language: en
+direction: auto
 
 # debug:
 #   compress: true
