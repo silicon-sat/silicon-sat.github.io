@@ -9,7 +9,11 @@ sort: 1
 - [Silicon_OrbitLab_TGS1](https://tinygs.com/station/Silicon_OrbitLab_TGS1@6240637039)
 - [TinyGS](https://tinygs.com) 
 - [TinyGS GitHub Page](https://github.com/G4lile0/tinyGS)
-- [Sooraj Shenoy VU3ZAG](https://soorajshenoys.blogspot.com/2023/01/lora-433mhz-tinygs-satellite-ground.html): Gold Mine!!
+- [Sooraj Shenoy VU3ZAG](https://soorajshenoys.blogspot.com/2023/01/lora-433mhz-tinygs-satellite-ground.html): Installed our first setup using this site.  
+
+**7 JULY 2023**
+
+- Replaced the spring antenna with a V-dipole (rabbit year) and received 4 packets within 2 days!!
 
 **24 JUNE 2023**
 
