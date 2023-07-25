@@ -8,7 +8,7 @@ Satellite Communication
 
 ## LoRa
 
-LoRa is Low-Power Wide-Area Network (LPWAN) technology from Semtech. It started as a protocol for builliding long-range (hence LoRa) low-power network for Internet of Things (IoT). It has now become popular for satellite communication for tinySats since low-bandwidth data can be transferred with very little energy which is attractive for tinySats with tiny batteries.
+LoRa is Low-Power Wide-Area Network (LPWAN) technology from Semtech. It started as a protocol for builliding long-range (hence LoRa) low-power network for Internet of Things (IoT). It has now become popular for satellite communication for tinySats since low-bandwidth data can be transferred with very little energy which is attractive for tinySats with tiny batteries. Also, it uses a **non-licensed** band ISM (eg. 434 MHz) that is suitable for global use in the amateur band. In India **434-438MHz** is an amatuer band. So you are free to receive in this band but need an amateur license to transmit. 
 
 **REFERENCES**
 
