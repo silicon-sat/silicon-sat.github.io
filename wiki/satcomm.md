@@ -25,6 +25,13 @@ LoRa is Low-Power Wide-Area Network (LPWAN) technology from Semtech. It started 
   - [SX127X](https://www.dropbox.com/s/9ohuuyscbmycjts/Datasheet-SX1276-7-8-9_W_APP_V7.pdf)
     - [Appnotes, etc](https://www.semtech.com/products/wireless-rf/lora-connect/sx1278#documentation)
 
+- **Development**
+
+  - [ESP32 with LoRa using Arduino IDE – Getting Started](https://randomnerdtutorials.com/esp32-lora-rfm95-transceiver-arduino-ide/)
+  - [ESP32 MQTT – Publish and Subscribe with Arduino IDE](https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/)
+  - [ESP32 LoRa 1-CH Gateway, LoRaWAN, and the Things Network](https://learn.sparkfun.com/tutorials/esp32-lora-1-ch-gateway-lorawan-and-the-things-network/all)
+  - [Heltec ESP32+LoRa Series Quick Start](https://docs.heltec.org/en/node/esp32/quick_start.html)
+
 
 **TECHNOLOGY**
 
