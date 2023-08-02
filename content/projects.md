@@ -6,7 +6,8 @@ sort: 1
 
 ## TinyGS Ground Station
 
-[TinyGS](https://tinygs.com) is an open network of Ground Stations distributed around the world to receive and operate LoRa satellites, weather probes and other satellites, using low-cost and versatile receiver modules based on ESP32 Wifi chipset and sx126x/sx127x LoRa chipset. The goal of this project is to jump-start the satelitte program with minimum capital expense. This will not only help setup the ground station for our future PocketQube (or CubeSat) satellites but also provide us with vital information about the orbiting satellites that will help us design our own nano-sateliite.  
+[TinyGS](https://tinygs.com) is an open network of Ground Stations distributed around the world to receive and operate LoRa satellites, weather probes and other satellites, using low-cost and versatile receiver modules based on ESP32 Wifi chipset and sx126x/sx127x LoRa chipset. 
+The goal of this project is to use the tinyGS platform to experiment with the satellite communication technology and eventually come up with a plan for our future tiny/pico satellite format. This will involve trying out different communication protocols like LoRa and FSK. Do experiemnts with current satellites in terms of antennas used and monitor robustness of the commmunication protocol w.r.t. power, environment, geographical location and so on. As part of this project, we will experiment with different antenna technologies.
 
 **Resources**
 
@@ -14,7 +15,9 @@ sort: 1
 
 ## Attitude Determination and Control System (ADCS)
 
-The goal of this project is to come up with a ADCS strategy that involves minimum payload while keeping the R&D time reasonably short. 
+Attitude control is the problem of ensuring the orientation of the satellite while in orbit. 
+The standard control technique in larger satellites is the use of thrusters but that is mostly prohibitive in small satellite because of cost and minaturization of thrusters. Therefore, attitude control for tinySats remains a fairly open problem. The goal of this project is to investigate passive stabilization technique for a tiny/pico satellite format. The primary goal would be simplicity and robustness in design and being able to simulate and predict it's orbital behaviour with very good accuracy.
+
 
 ## Python-based Orbital Environment Simulator
 
