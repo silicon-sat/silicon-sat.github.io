@@ -2,15 +2,28 @@
 sort: 1
 ---
 
-# GROUND STATION 
+# TinyGS GROUND STATION 
 
 **USEFUL LINKS**
 
+- [Silicon_OrbitLab_TGS2](https://tinygs.com/station/Silicon_OrbitLab_TGS2@6240637039)
 - [Silicon_OrbitLab_TGS1](https://tinygs.com/station/Silicon_OrbitLab_TGS1@6240637039)
 - [TinyGS](https://tinygs.com) 
 - [TinyGS GitHub Page](https://github.com/G4lile0/tinyGS)
 - [Sooraj Shenoy VU3ZAG](https://soorajshenoys.blogspot.com/2023/01/lora-433mhz-tinygs-satellite-ground.html): Installed our first setup using this site.  
 
+
+## TINY GS Silicon_OrbitLab_TGS2
+
+**12 AUG 2023**
+
+- Using **TTGO (LILYGO) T-Beam V1.1 ESP32 LoRa 433MHz Module** 
+  - [Listing in lilygo.cc](https://www.lilygo.cc/products/t-beam-v1-1-esp32-lora-module?variant=42204034859189)
+  - [Listing in robu.in](https://robu.in/product/ttgo-t-beam-v1-1-esp32-lora-433mhz-wifi-wireless-bluetooth-module-with-ipex-18650-battery-holder-unsoldered/)
+- Followed the same step as TGS1 below to setup the module and worked right off the box.
+- Disconnected the V-dipole from TGS1 and connected to TGS2.
+- One of the reasons I like this device is because the antenna input is a SMA instead of U.Fl.
+- The first sat I received is GaoFen-7 (4 packets on the same run) and I already see about 4 dB improvement (looking at the RSSI and SNR for the same distance and elevation). So I think the SMA-to-U.Fl in TGS1 is the reason I see this improvement. Of course, a lot more work is needed to really prove that.   
 
 ## TINY GS Silicon_OrbitLab_TGS1
 
