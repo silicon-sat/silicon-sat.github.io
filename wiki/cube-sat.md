@@ -9,6 +9,8 @@ sort: 3
 - [cubesat.org](https://cubesat.org): All Cubesat/Testing/Regulatory info can be found here including third-party resources.
 - [Skyroot](https://skyroot.in/): Bangalore-based aerospace startup as launch vehicle provider including CubeSats.
 - [ToSpace](https://tospace.in): Bangalore-based aerospace firm focusing on the R&D of __LoRa-based PocketQube__ satellite service, dedicated to the promotion of STEM subjects in India.
+- [Libre Space Foundation](https://libre.space): Open Source Space Technologies.
+  - [SatNOGS](https://satnogs.org/): Open Source global network of satellite ground stations.
 
 ## Literature
 - **Articles/Whitepapers/etc**
