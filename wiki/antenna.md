@@ -6,12 +6,14 @@ sort: 5
 
 **RESOURCES**
 
-- [https://github.com/G4lile0/tinyGS/wiki/Antenna](TinyGS Antenna Wiki Page)
+- [TinyGS Antenna Wiki Page](https://github.com/G4lile0/tinyGS/wiki/Antenna)
 
 ## Quarter Wave Ground Plane
 
-- [http://www.n1gy.com/simple-ground-plane-antennas.html](Ground Plane Antenna)
-- [https://m0ukd.com/calculators/quarter-wave-ground-plane-antenna-calculator/](1/4 wave ground plane calculator) 
+- [1/4 wave ground plane calculator](https://m0ukd.com/calculators/quarter-wave-ground-plane-antenna-calculator/) 
+- [Simple Ground Plane Antennas for 2/1.25/0.7meter band](http://www.n1gy.com/simple-ground-plane-antennas.html): Blog from HAM N1GY using SO-239 UHF Conn (not recommended for >100MHz). 
+- [LoRa/LoRaWAN tutorial 44](https://www.youtube.com/watch?v=bWpjDM2CJXI): Very nice YuTube tutorial on 1/4-Wave Ground Plane Antenna.
+- [Andrea Spiess Video #368](https://www.youtube.com/watch?v=6cVYsHCLKq8): How to build performing antennas for LoRa, WiFi, 433MHz, Airplanes etc.(NanoVNA, MMANA-GAL)`
 
 
 ## Tuning 
