@@ -26,3 +26,12 @@ First-Time CubeSat Developers.
   - [Surviving Orbit the DIY Way](https://www.amazon.com/Surviving-Orbit-DIY-Way-Satellite/dp/1449310621/ref=sr_1_4?crid=19R7W0JJ9NQYL&keywords=diy+satellite&qid=1682057563&s=books&sprefix=diy+sateliite%2Cstripbooks-intl-ship%2C815&sr=1-4): Testing the Limits Your Satellite Can and Must Match --Sandy Antunes
   - [DIY Instruments for Amateur Space](https://www.amazon.com/DIY-Instruments-Amateur-Space-Spacecraft/dp/1449310648/ref=sr_1_7?crid=19R7W0JJ9NQYL&keywords=diy+satellite&qid=1682057563&s=books&sprefix=diy+sateliite%2Cstripbooks-intl-ship%2C815&sr=1-7): Inventing Utility for Your Spacecraft Once It Achieves Orbit -- Sandy Antunes
 
+## Satelittes
+
+- [FEES (Flexible Experimental Embedded Satellite)](https://tinygs.com/satellite/FEES) ([3-D Video](https://youtu.be/uFov8VZ2-pM))is a self funded, collaborative project by the Italian GP Advanced Projects (Now [APOGEO SPACE](https://www.apogeo.space)) aimed at developing a low cost platform for In Orbit Testing and Validation of Electronics components.  The whole satellite, including the electronics boards, is entirely design and manufactured within the project. The flight will be also the validation of this platform and components. The 0.3 kg satellite is built to a **0.3UCubeSat** (10 cm × 10 cm × 3 cm) form factor.  FEES Mission had three main goals. First of all, we aimed to obtain an in-orbit qualification of both an **attitude determination architecture** and a commercial GPS receiver. FEES also validated the exploitation of **IRIDIUM global network** to receive data, testing and supporting on-board traditional radio transmissions, which allowed us to manage the mission without a direct link to ground station and receiving early notifications. Finally, we meant to test a low cost UHF receivers with advanced modulation protocols.
+
+- [SATLLA-2B](https://tinygs.com/satellite/SATLLA-2B):
+  - 14x5x5cm 300gm nanosateliite from Ariel University, Israel
+  - Payload: start tracking, aircraft tracking, laser comm stabilization, photog and image analysis, uses amateur radio band (LoRa 433MHz) 
+  - [SATLLA2.1 Building a Nano-satellite](https://www.youtube.com/watch?v=bJ7NgBDLjMQ): YouTube video on the buildiing process.
+  - [SATLLA BLog](https://www.ariel-asc.com/blog)
